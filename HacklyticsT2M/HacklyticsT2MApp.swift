@@ -11,7 +11,11 @@ import SwiftUI
 struct HacklyticsT2MApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                InputView()
+                    
+            }
+            .accentColor(.indigo)
         }
     }
 }
