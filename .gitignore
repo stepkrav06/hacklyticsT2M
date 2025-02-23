@@ -1,0 +1,5 @@
+VQ-Trans/pretrained
+VQ-Trans/checkpoints
+VQ-Trans/generated
+VQ-Trans/ViT-B-32.pt
+VQ-Trans/motion.npy
